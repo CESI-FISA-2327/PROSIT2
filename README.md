@@ -1,8 +1,4 @@
----
-title: |
-  PROSIT 2 Aller\
-  Un conteneur dans les nuages
----
+# PROSIT 2 Aller Un conteneur dans les nuages
 
 # Contexte
 
